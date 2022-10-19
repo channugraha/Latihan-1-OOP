@@ -42,7 +42,8 @@ java PersonBaru
 ```
 
 ## Program Result
-![Screenshoot](Screenshoot Latihan 1.png)
+![Screenshoot](![Screenshot Latihan 1](https://user-images.githubusercontent.com/116129101/196578696-d60a0ccf-85d7-464c-a430-5c6886c46970.png)
+)
 
 ## Credit
 > Chandra Nugraha Ramadhan
