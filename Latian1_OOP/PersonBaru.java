@@ -1,27 +1,26 @@
 public class PersonBaru{
 	public static void main(String[] args){
 	//membuat object Anton
-	Person personAnton = new Person();
+	Person Anton = new Person();
 	
 	/*memanggil atribut dan memberi nilai*/
-	personAnton.nama = "Anton";
-	personAnton.jenisKelamin = "Laki-laki";
-	personAnton.umur = 23;
+	Anton.nama = "Anton";
+	Anton.jenisKelamin = "Laki-laki";
+	Anton.umur = 23;
 	
-	System.out.println("Nama: " + personAnton.nama);
-	System.out.println("Jenis Kelamin: " + personAnton.jenisKelamin);
-	System.out.println("Umur: " + personAnton.umur);
+	System.out.println("Nama: " + Anton.nama);
+	System.out.println("Jenis Kelamin: " + Anton.jenisKelamin);
+	System.out.println("Umur: " + Anton.umur);
 	
 	//membuat object Riko
-	Person personRiko = new Person();
-	
+	Person Riko = new Person();
 	/*memanggil atribut dan memberi nilai*/
-	personRiko.nama = "Riko";
-	personRiko.jenisKelamin = "Laki-laki";
-	personRiko.umur = 16;
+	Riko.nama = "Riko";
+	Riko.jenisKelamin = "Laki-laki";
+	Riko.umur = 16;
 	
-	System.out.println("Nama: " + personRiko.nama);
-	System.out.println("Jenis Kelamin: " + personRiko.jenisKelamin);
-	System.out.println("Umur: " + personRiko.umur);
+	System.out.println("Nama: " + Riko.nama);
+	System.out.println("Jenis Kelamin: " + Riko.jenisKelamin);
+	System.out.println("Umur: " + Riko.umur);
 	}
 }
