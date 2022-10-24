@@ -1,5 +1,5 @@
 # Pemrograman Orientasi Objek
-## Latihan 1
+## Praktikum 1
 Buatlah kode program java untuk:
 
 • Mendeklarasikan class Person, dengan atribut Nama,
